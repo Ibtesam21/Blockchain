@@ -1,5 +1,5 @@
 # A Decentralized Certificate Verification System Using Blockchain
-# Blockchain Certificate Verification System
+
 
 This is a Flask web server that connects users, schools, and certificates to a blockchain-based certificate verification system. The goal of this system is to provide a secure and tamper-proof way of verifying educational certificates and degrees.
 
